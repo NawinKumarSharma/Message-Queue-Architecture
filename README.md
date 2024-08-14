@@ -6,6 +6,7 @@ This repository contains a basic setup for a message queue architecture using Bu
 
 - **Worker**: The worker processes jobs from a queue and performs actions based on the job data. In this example, the worker simulates sending an email.
 - **Producer**: The producer adds jobs to the queue, which the worker then processes.
+![image](https://github.com/user-attachments/assets/48fa9f8c-62d3-409d-9c49-890402e3261f)
 
 ## Prerequisites
 
